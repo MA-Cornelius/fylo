@@ -1,0 +1,263 @@
+.firstbackground .navbar-grid {
+  display: grid;
+  grid-template-columns: 8fr 4fr;
+  padding-top: 50px;
+  margin-left: 30px;
+}
+.firstbackground .navbar-ul ul {
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr;
+  gap: 1px;
+  text-decoration: none;
+  text-decoration-style: none;
+  -moz-text-decoration-style: none;
+  list-style-type: none;
+}
+.firstbackground .navbar-ul ul a {
+  text-decoration: none;
+  text-decoration-style: none;
+  -moz-text-decoration-style: none;
+  list-style-type: none;
+}
+.firstbackground .header {
+  display: grid;
+  grid-template-columns: 6fr 6fr;
+  gap: 5px;
+}
+
+.firstbackground .header .header-attribute1 .header-attribute1heading h1 {
+  width: 95%;
+  margin-top: 120px;
+  margin-left: 30px;
+}
+.firstbackground .header .header-attribute1 .header-content p {
+  width: 85%;
+  margin-left: 30px;
+}
+.firstbackground .header .header-attribute1 .emailbar {
+  display: flex;
+  gap: 140px;
+  margin-left: 30px;
+}
+.firstbackground .header .header-attribute1 .emailbar .inputmail input {
+  width: 150%;
+  padding: 3% 15% 3% 7%;
+  border-radius: 3px;
+}
+.firstbackground .header .header-attribute1 .emailbar .submitmail button {
+  width: 195px;
+  text-align: center;
+  padding: 3.7% 0 3.7% 0;
+  border-style: none;
+  color: white;
+  background-color: hsl(224, 93%, 58%);
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+.firstbackground .header .image img {
+  width: 80%;
+}
+
+.secondbackground {
+  background: url("bg-curve-desktop.svg");
+  height: 125vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 1440px;
+}
+
+.secondbackground .header2 .fylo-header h2 {
+  margin-top: 200px;
+  margin-left: 30px;
+  margin-bottom: 40px;
+  padding-top: 100px;
+}
+.secondbackground .header2 .content2 p {
+  width: 44%;
+  margin-left: 30px;
+}
+
+.secondbackground .header2 .sub-content a {
+  border-bottom: 1px solid hsl(170, 45%, 43%);
+  border-width: 1px;
+  text-decoration: none;
+  text-decoration-style: none;
+  -moz-text-decoration-style: none;
+  list-style-type: none;
+  align-items: center;
+  margin-left: 30px;
+  color: hsl(170, 45%, 43%);
+}
+.secondbackground .header2 .sub-content a:visited {
+  color: hsl(170, 45%, 43%);
+}
+
+.secondbackground .feedback-grid2 {
+  display: grid;
+  grid-template-columns: 6fr 6fr;
+  gap: 340px;
+}
+
+.secondbackground .feedback-grid2 .product-feedback {
+  width: 360px;
+  border: 0px solid transparent;
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  margin-left: 30px;
+  margin-top: 50px;
+  line-height: 25px;
+  height: 225px;
+}
+
+.secondbackground .product-feedback .feedbackUserProfile {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.secondbackground .product-feedback .feedbackUserProfile .user-image img {
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  margin-top: 10px;
+}
+.secondbackground .product-feedback .feedbackUserProfile .username {
+  line-height: 1.5px;
+}
+.secondbackground .product-feedback .feedbackUserProfile .username p {
+  font-size: smaller;
+  border-bottom: 100px;
+}
+
+.secondbackground .feedback-grid2 .imageillustration2 {
+  width: 600px;
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+/* ================================ */
+
+.thirdbackground {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: hsl(238, 22%, 44%);
+  width: 1440px;
+  color: hsl(0, 0%, 75%);
+  display: grid;
+  grid-template-columns: 6fr 6fr;
+  gap: 200px;
+}
+
+.thirdbackground .fyloaccess h2 {
+  margin-left: 30px;
+}
+
+.thirdbackground .fyloaccess p {
+  width: 550px;
+  margin-left: 30px;
+}
+
+.thirdbackground .access-mail form {
+  display: grid;
+  gap: 10px;
+  padding-top: 30px;
+}
+
+.thirdbackground .access-mail input {
+  width: 400px;
+  padding: 8px;
+  padding-left: 15px;
+  border-style: none;
+}
+.thirdbackground .access-mail button {
+  padding: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white;
+  background-color: hsl(224, 93%, 58%);
+  border-style: none;
+}
+
+.fourthbackground {
+  background: hsl(243, 87%, 12%);
+  width: 1440px;
+  color: hsl(240, 75%, 98%);
+  padding-bottom: 50px;
+}
+.fourthbackground a {
+  text-decoration: none;
+  color: white;
+}
+
+.fourthbackground .fyloproduct-image img {
+  padding-top: 70px;
+  padding-left: 30px;
+  margin-bottom: 15px;
+}
+
+.fourthbackground .fylocontact {
+  display: grid;
+  grid-template-columns: 3fr 3fr 3fr 3fr;
+  gap: 20px;
+}
+.fourthbackground .fylocontact .contact1 .dial {
+  margin-left: 30px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.fourthbackground .fylocontact .contact1 .contactmail {
+  margin-left: 30px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.fourthbackground .fylocontact .features1 ul {
+  list-style-type: none;
+  line-height: 2;
+}
+.fourthbackground .fylocontact .features2 ul {
+  list-style: none;
+  line-height: 2;
+}
+
+.fourthbackground .fylosocialmedialinks {
+  display: flex;
+  grid-template-columns: 4fr 4fr 4fr;
+  gap: 10px;
+}
+
+.fourthbackground .fylosocialmedialinks img {
+  border: 1px solid white;
+  height: 40px;
+  width: 40px;
+  border-radius: 1000px;
+  -webkit-border-radius: 1000px;
+  -moz-border-radius: 1000px;
+  -ms-border-radius: 1000px;
+  -o-border-radius: 1000px;
+}
+
+.fourthbackground .fylosocialmedialinks .svg img {
+  color: white;
+}
+
+footer p {
+  text-align: center;
+}
+footer a {
+  text-decoration: none;
+  color: hsl(224, 93%, 58%);
+}
