@@ -61,6 +61,11 @@
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
 }
+
+.firstbackground .header .header-attribute1 .emailbar .submitmail button:hover {
+  background-color: rgb(88, 88, 236);
+}
+
 .firstbackground .header .image img {
   width: 80%;
 }
@@ -211,6 +216,10 @@
   color: white;
   background-color: hsl(224, 93%, 58%);
   border-style: none;
+}
+
+.thirdbackground .access-mail button:hover {
+  background-color: rgb(88, 88, 236);
 }
 
 .fourthbackground {
