@@ -26,13 +26,17 @@
 }
 
 .firstbackground .header .header-attribute1 .header-attribute1heading h1 {
-  width: 95%;
+  width: 80%;
   margin-top: 120px;
   margin-left: 30px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700px;
 }
 .firstbackground .header .header-attribute1 .header-content p {
-  width: 85%;
+  width: 80%;
   margin-left: 30px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400px;
 }
 .firstbackground .header .header-attribute1 .emailbar {
   display: flex;
@@ -70,11 +74,14 @@
   width: 1440px;
 }
 
-.secondbackground .header2 .fylo-header h2 {
+.secondbackground .header2 .fylo-header h1 {
   margin-top: 200px;
   margin-left: 30px;
   margin-bottom: 40px;
   padding-top: 100px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700px;
+  font-weight: bold;
 }
 .secondbackground .header2 .content2 p {
   width: 44%;
@@ -135,9 +142,21 @@
 .secondbackground .product-feedback .feedbackUserProfile .username {
   line-height: 1.5px;
 }
-.secondbackground .product-feedback .feedbackUserProfile .username p {
+.product-feedback .feedbackUserProfile .username h4 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700px;
+  font-size: large;
+}
+.secondbackground
+  .secondbackground
+  .product-feedback
+  .feedbackUserProfile
+  .username
+  p {
   font-size: smaller;
   border-bottom: 100px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400px;
 }
 
 .secondbackground .feedback-grid2 .imageillustration2 {
@@ -160,11 +179,17 @@
 
 .thirdbackground .fyloaccess h2 {
   margin-left: 30px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700px;
+  color: white;
 }
 
 .thirdbackground .fyloaccess p {
   width: 550px;
   margin-left: 30px;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700px;
 }
 
 .thirdbackground .access-mail form {
@@ -227,10 +252,14 @@
 .fourthbackground .fylocontact .features1 ul {
   list-style-type: none;
   line-height: 2;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700px;
 }
 .fourthbackground .fylocontact .features2 ul {
   list-style: none;
   line-height: 2;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700px;
 }
 
 .fourthbackground .fylosocialmedialinks {
